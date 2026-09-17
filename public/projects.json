@@ -1,0 +1,34 @@
+[
+  {
+    "id": "p1",
+    "title": "Stack Builder Dashboard",
+    "description": "A dashboard that lets developers browse technologies and assemble a custom tech stack for their next project.",
+    "technologies": ["React", "TypeScript", "Tailwind CSS"],
+    "githubUrl": "https://github.com",
+    "demoUrl": "https://example.com"
+  },
+  {
+    "id": "p2",
+    "title": "Realtime Chat App",
+    "description": "A realtime messaging application with rooms, typing indicators, and message history backed by a Node.js server.",
+    "technologies": ["Node.js", "React", "Redis"],
+    "githubUrl": "https://github.com",
+    "demoUrl": "https://example.com"
+  },
+  {
+    "id": "p3",
+    "title": "E-commerce Storefront",
+    "description": "A full-featured storefront with product listings, cart management, and a PostgreSQL-backed order system.",
+    "technologies": ["Next.js", "PostgreSQL", "TypeScript"],
+    "githubUrl": "https://github.com",
+    "demoUrl": "https://example.com"
+  },
+  {
+    "id": "p4",
+    "title": "DevOps Pipeline Monitor",
+    "description": "A monitoring tool that visualizes containerized deployment pipelines and service health in real time.",
+    "technologies": ["Docker", "Node.js", "JavaScript"],
+    "githubUrl": "https://github.com",
+    "demoUrl": "https://example.com"
+  }
+]
